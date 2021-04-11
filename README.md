@@ -9,7 +9,10 @@ The project of Web developer program at Yandex.Praktikum where we rewrite Mesto 
 
 * React
 
+
 ## How to view the web page
+
+* You can open it by going to the project's github.io page [Mesto](https://pincats.github.io/react-mesto-auth/)
 
 1. Download or clone the project
 2. Use `npm i` to install the dependencies
