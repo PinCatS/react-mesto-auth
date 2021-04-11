@@ -34,7 +34,7 @@ function Header({navPath, email, linkText, isButtonTextGrey, showMenu, onHeaderB
           </div>
           {showMenu && <button className="header__burger" onClick={toggleMenu}>
             {menuToggled
-                ? <img src={closeIcon} alt="кнопка закрыть"/>
+                ? <img src={closeIcon} alt="кнопка закрыть" className='header__close-button'/>
                 : <img src={burgeIcon} alt="бургер-меню"/>}
           </button>}
         </header>

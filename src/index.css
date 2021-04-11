@@ -18,6 +18,7 @@ body {
 @import url('./blocks/header/__logo/header__logo.css');
 @import url('./blocks/header/__user-name/header__user-name.css');
 @import url('./blocks/header/__button/header__button.css');
+@import url('./blocks/header/__close-button/header__close-button.css');
 @import url('./blocks/header/__button/_color/header__button_color_grey.css');
 @import url('./blocks/page/__content/page__content.css');
 @import url('./blocks/profile/profile.css');
